@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/exon-media-assignment/static/css/main.f1e7f1a1.css",
+    "main.js": "/exon-media-assignment/static/js/main.626596b7.js",
+    "static/media/screen_picture.png": "/exon-media-assignment/static/media/screen_picture.f14e33253d6f198a650b.png",
+    "index.html": "/exon-media-assignment/index.html",
+    "main.f1e7f1a1.css.map": "/exon-media-assignment/static/css/main.f1e7f1a1.css.map",
+    "main.626596b7.js.map": "/exon-media-assignment/static/js/main.626596b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e7f1a1.css",
+    "static/js/main.626596b7.js"
+  ]
+}
